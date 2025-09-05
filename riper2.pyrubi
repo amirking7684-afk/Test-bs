@@ -1,0 +1,22 @@
+{
+    "auth": "citpakfuvjfbgmyxjaqquollrphyfnxt",
+    "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIICXQIBAAKBgQDMmX8dWASrdBE3Z6cbWkXRaqOyg625mNxotXCUy0YtGD4ztCiA\nl46mntrnRaHSdB3E/4ZRDD9V3/XxLfiH3XPXVKmi7zf6e4nmf+JLvZZx+2JGnheI\ni/F1mTBevRMe904wnH3tAHZ7gwrPZMrOqqEkeO329f+XSNTMJADQ0863yQIDAQAB\nAoGACdrKWDrbNbloU2F5F2yOkJbI9fIY+eeqlRoJJ0ePtKAWbeXbbg8uuiiMXWeZ\nkuIQJYMTwH9dJRkdlt1qmzuvxr0QfesnOAIRMzwp7CzpAMgrLG68twH1sg67eN5z\nNDipK3jBiiMZRHK8SMPi5+5MZBuQLzn/pcwlw6ANYZlDSgECQQDMuD5oviQfB2Ms\n9P+hxmRZJDtHMGHrVIy5oED4bGpx1xmON+pZSvG9n3VSr6lKDWISUAFxGquGi1Lc\ngBR4EhIBAkEA/9mNBcpoEtWisKJveKrDLktWHC9rwBfny2CAtzFkLE4sxBZFltix\nA0oUr8T4+qZb57vZ3qQJq7dUvRs/gSSVyQJBAKGL8pOtF8v0hGqBmwgKCj3dvXlb\n0KlnuvTwZNSkmQrkdqIntaJo5YKBRo/NVoW9MdrJj5m1Ng2h++1MlNp7SAECQQD6\nxFWnxlKpm0FhlWRixiSWPHsDFyuqVQP5X/XpGH0Ru/G+pAHDL1KYYcTS3uIWcnYE\nNSf/Q5LC/ucMjyd4Qc6ZAkAV1KhqNkOHOlcfn33aSBgAUtP7rnoumTCwqKPizLtd\nTPYW++kUF8mm8u4k1vwsrkguXigcr7H/YMMv9ik/ni6Y\n-----END RSA PRIVATE KEY-----",
+    "user": {
+        "user_guid": "u0I9CN50dffa34335d4518a2e09ecd70",
+        "first_name": "\u200c",
+        "phone": "989931147265",
+        "avatar_thumbnail": {
+            "file_id": "72737759227249",
+            "mime": "jpg",
+            "dc_id": "430",
+            "access_hash_rec": "3323861208534450861342497764422025081800"
+        },
+        "last_online": 1756634210,
+        "is_deleted": false,
+        "is_verified": false,
+        "online_time": {
+            "type": "Exact",
+            "exact_time": 1756634210
+        }
+    }
+}
